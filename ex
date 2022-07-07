@@ -7,3 +7,7 @@ echo "Grrrr Pow pow "
 sleep 3
 
 echo "Body drops on the floor"
+
+sleep 3
+
+echo "End of the story"
